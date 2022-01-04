@@ -1,2 +1,5 @@
+.ipynb_checkpoints/
 input/*
 !input/.keep
+output/*
+!output/.keep
